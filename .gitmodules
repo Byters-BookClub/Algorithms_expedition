@@ -4,3 +4,6 @@
 [submodule "chanheki"]
 	path = chanheki
 	url = https://github.com/chanheki/AlgorithmicProblemSolvingStrategies
+[submodule "yonshin"]
+	path = yonshin
+	url = git@github.com:sindydwns/algorithm-study.git

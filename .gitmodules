@@ -10,3 +10,6 @@
 [submodule "daegulee"]
 	path = daegulee
 	url = https://github.com/daekuelee/algoStudy.git
+[submodule "yeonhkim"]
+	path = yeonhkim
+	url = https://github.com/Yonaim/Algorithm_PS.git

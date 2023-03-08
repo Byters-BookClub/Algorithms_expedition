@@ -7,3 +7,6 @@
 [submodule "yonshin"]
 	path = yonshin
 	url = git@github.com:sindydwns/algorithm-study.git
+[submodule "daegulee"]
+	path = daegulee
+	url = https://github.com/daekuelee/algoStudy.git

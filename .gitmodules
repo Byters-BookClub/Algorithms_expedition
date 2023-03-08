@@ -1,3 +1,6 @@
 [submodule "hyeyukim"]
 	path = hyeyukim
 	url = https://github.com/hey-uu/Algorithm_study.git
+[submodule "chanheki"]
+	path = chanheki
+	url = https://github.com/chanheki/AlgorithmicProblemSolvingStrategies

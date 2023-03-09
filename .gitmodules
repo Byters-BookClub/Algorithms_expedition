@@ -1,15 +1,20 @@
 [submodule "hyeyukim"]
 	path = hyeyukim
 	url = https://github.com/hey-uu/Algorithm_study.git
+	branch = main
 [submodule "chanheki"]
 	path = chanheki
 	url = https://github.com/chanheki/AlgorithmicProblemSolvingStrategies
+	branch = main
 [submodule "yonshin"]
 	path = yonshin
 	url = https://github.com/sindydwns/algorithm-study.git
+	branch = main
 [submodule "daegulee"]
 	path = daegulee
 	url = https://github.com/daekuelee/algoStudy.git
+	branch = main
 [submodule "yeonhkim"]
 	path = yeonhkim
 	url = https://github.com/Yonaim/Algorithm_PS.git
+	branch = main
